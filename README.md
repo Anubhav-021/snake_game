@@ -13,24 +13,30 @@ This project is a recreation of the classic Snake game using Python's turtle gra
 
 1. Run main.py to start the game.
    
-2. Use the arrow keys to control the snake's movement:
+2. Use the arrow keys to control the snake's movement:<br>
      a. Up: Move the snake up.<br>
      b. Down: Move the snake down.<br>
      c. Left: Move the snake left.<br>
      d. Right: Move the snake right.
    
-Eat the food that randomly appears on the screen to grow the snake and increase your score.
-Avoid colliding with the walls or the snake's own body, or the game will end.
-Dependencies
-Python 3.x
-turtle module (part of the Python standard library)
-How to Run
+3. Eat the food that randomly appears on the screen to grow the snake and increase your score.
+4. Avoid colliding with the walls or the snake's own body, or the game will end.
+   
+## Dependencies
+
+1. Python 3.x
+2. turtle module (part of the Python standard library)
+   
+## How to Run
+
 Simply run the main.py script:
 
 bash
 Copy code
 python main.py
-Future Improvements
-Adding levels or increasing difficulty as the snake grows.
-Implementing high score tracking.
-Adding sound effects for a more engaging experience.
+
+## Future Improvements
+
+1. Adding levels or increasing difficulty as the snake grows.
+2. Implementing high score tracking.
+3. Adding sound effects for a more engaging experience.
