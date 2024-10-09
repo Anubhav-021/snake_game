@@ -1,15 +1,16 @@
+# Snake Game in Python
 
-Based on the contents of the provided files, here’s a README description for your Snake game:
-
-Snake Game in Python
 This project is a recreation of the classic Snake game using Python's turtle graphics library. The game includes functionalities for controlling the snake, growing it upon food consumption, and tracking the player's score. It's an excellent project for beginners looking to learn about object-oriented programming and game development in Python.
 
-Files
-main.py: The main script to run the game. It initializes the game screen, listens for keyboard inputs, and controls the game loop.
-snake.py: Contains the Snake class, which handles the snake's movement, growth, and direction control.
-food.py: Manages the food object, which randomly appears on the screen and is consumed by the snake.
-scoreboard.py: Tracks the player's score and displays it on the screen. It also handles the "Game Over" message.
-How to Play
+## Files
+
+## main.py: The main script to run the game. It initializes the game screen, listens for keyboard inputs, and controls the game loop.
+## snake.py: Contains the Snake class, which handles the snake's movement, growth, and direction control.
+## food.py: Manages the food object, which randomly appears on the screen and is consumed by the snake.
+## scoreboard.py: Tracks the player's score and displays it on the screen. It also handles the "Game Over" message.
+
+##How to Play
+
 Run main.py to start the game.
 Use the arrow keys to control the snake's movement:
 Up: Move the snake up.
