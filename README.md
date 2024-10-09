@@ -14,9 +14,9 @@ This project is a recreation of the classic Snake game using Python's turtle gra
 1. Run main.py to start the game.
    
 2. Use the arrow keys to control the snake's movement:
-     a. Up: Move the snake up.
-     b. Down: Move the snake down.
-     c. Left: Move the snake left.
+     a. Up: Move the snake up.<br>
+     b. Down: Move the snake down.<br>
+     c. Left: Move the snake left.<br>
      d. Right: Move the snake right.
    
 Eat the food that randomly appears on the screen to grow the snake and increase your score.
