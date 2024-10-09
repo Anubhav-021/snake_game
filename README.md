@@ -4,7 +4,7 @@ This project is a recreation of the classic Snake game using Python's turtle gra
 
 ## Files
 
-1. main.py: The main script to run the game. It initializes the game screen, listens for keyboard inputs, and controls the game loop.
+1. <b>main.py</b>: The main script to run the game. It initializes the game screen, listens for keyboard inputs, and controls the game loop.
 2. snake.py: Contains the Snake class, which handles the snake's movement, growth, and direction control.
 3. food.py: Manages the food object, which randomly appears on the screen and is consumed by the snake.
 4. scoreboard.py: Tracks the player's score and displays it on the screen. It also handles the "Game Over" message.
