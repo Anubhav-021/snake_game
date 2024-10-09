@@ -2,6 +2,11 @@
 
 This project is a recreation of the classic Snake game using Python's turtle graphics library. The game includes functionalities for controlling the snake, growing it upon food consumption, and tracking the player's score. It's an excellent project for beginners looking to learn about object-oriented programming and game development in Python.
 
+## Video
+
+https://github.com/user-attachments/assets/2995c3a1-b41a-4638-873d-d157101bb8b6
+
+
 ## Files
 
 1. <b>main.py</b>: The main script to run the game. It initializes the game screen, listens for keyboard inputs, and controls the game loop.
