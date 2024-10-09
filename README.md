@@ -31,8 +31,9 @@ This project is a recreation of the classic Snake game using Python's turtle gra
 
 Simply run the main.py script:
 
-``` python
+```
 python main.py
+```
 
 ## Future Improvements
 
